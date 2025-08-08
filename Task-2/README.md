@@ -1,5 +1,5 @@
 
-# Task 1: Credit Scoring Model 
+# Task 2: Credit Scoring Model 
 
 ## Objective
 
